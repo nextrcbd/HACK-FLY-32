@@ -13,7 +13,7 @@ USE AT YOUR OWN RISK.
 
 
 
-🔧 Specifications
+Specifications
 
 Frame Size: 3-inch.
 Motors: 1104 – 4300KV
@@ -25,10 +25,10 @@ Navigation: GPS supported.
 
 Use Case: Long-range FPV, exploration, and experimental flight testing.
 
-🧠 Key Features
+Key Features
 
-✨ Lightweight and efficient long-range design.
-🔌 Custom flight controller hardware.
-📡 Low-latency and long-range control using ELRS.
-🛰️ GPS support for navigation and failsafe features.
-⚙️ Fully configurable through Betaflight.
+Lightweight and efficient long-range design.
+Custom flight controller hardware.
+Low-latency and long-range control using ELRS.
+GPS support for navigation and failsafe features.
+Fully configurable through Betaflight.
