@@ -1,4 +1,4 @@
-![PXL_20260319_081013131](https://github.com/user-attachments/assets/e8275242-051f-4d3e-bea6-a8551467dff1)# HACK FLY 32 (3 inch fpv drone using esp32 s3)
+# HACK FLY 32 (3 inch fpv drone using esp32 s3)
 
 
 A compact 3-inch 3D printed FPV drone designed for efficiency, stability, and extended flight time. This project features a custom-built flight controller, ExpressLRS (ELRS) communication, and GPS support, all running on Betaflight firmware.
