@@ -35,3 +35,11 @@ Custom flight controller hardware.
 Low-latency and long-range control using ELRS.
 GPS support for navigation and failsafe features.
 Fully configurable through Betaflight.
+
+
+3D print material:
+PETG- Top plate, Bottom plate.
+TPU- Camera mount, GPS mount, VTX antena mount.
+
+
+for Flashing latest Betaflight to Flight controller visit rtlopez/esp-fc repo- https://github.com/rtlopez/esp-fc. 
