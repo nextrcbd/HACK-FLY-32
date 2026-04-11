@@ -1,7 +1,7 @@
-# 3" Nano Long Range Drone
+# HACK FLY 32 (3 inch fpv drone using esp32 s3)
 
 
-A compact 3-inch long-range FPV drone designed for efficiency, stability, and extended flight time. This project features a custom-built flight controller, ExpressLRS (ELRS) communication, and GPS support, all running on Betaflight firmware.
+A compact 3-inch 3D printed FPV drone designed for efficiency, stability, and extended flight time. This project features a custom-built flight controller, ExpressLRS (ELRS) communication, and GPS support, all running on Betaflight firmware.
 
 
 
@@ -17,11 +17,14 @@ Specifications
 
 Frame Size: 3-inch.
 Motors: 1104 – 4300KV
+Propeller: Gemfan 3018 bi-blade
 Battery Support: 2S – 3S LiPo.
+suggested battery: (900-1500)mah 3s lipo
 Flight Controller: Custom-designed FC.
 Firmware: Betaflight.
 RC Protocol: ExpressLRS (ELRS)
 Navigation: GPS supported.
+gps compatibility: any 15*15mm gps (Hglrs m100 mini suggested)
 
 Use Case: Long-range FPV, exploration, and experimental flight testing.
 
