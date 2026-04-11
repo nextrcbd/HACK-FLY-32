@@ -13,7 +13,6 @@ USE AT YOUR OWN RISK.
 
 
 
-
 # Specifications
 
 Frame Size: 3-inch.
@@ -36,10 +35,6 @@ Custom flight controller hardware.
 Low-latency and long-range control using ELRS.
 GPS support for navigation and failsafe features.
 Fully configurable through Betaflight.
-
-
-
-
 
 
 3D print material:
