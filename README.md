@@ -6,10 +6,16 @@ A compact 3-inch 3D printed FPV drone designed for efficiency, stability, and ex
 
 
 
+
+
 ⚠️ Disclaimer
 The use and operation of this drone may require licenses in certain countries. This project is experimental and provided without any guarantee of safety or reliability.
 
 USE AT YOUR OWN RISK.
+
+
+
+
 
 
 
@@ -40,6 +46,11 @@ Use Case: Long-range FPV, exploration, and experimental flight testing.
 
 
 
+
+
+
+
+
 Key Features
 
 Lightweight and efficient long-range design.
@@ -49,12 +60,21 @@ GPS support for navigation and failsafe features.
 Fully configurable through Betaflight.
 
 
+
+
+
 3D print material:
 PETG- Top plate, Bottom plate.
 TPU- Camera mount, GPS mount, VTX antena mount.
 
 
+
+
+
 for Flashing latest Betaflight to Flight controller visit rtlopez/esp-fc repo- https://github.com/rtlopez/esp-fc.
+
+
+
 
 
 
