@@ -62,11 +62,40 @@ Break the frame in a crash? Just print another. Cost? less than 1$ even if you P
 
 # Documentation
 In this repository you can find 3D printable Drone frame STL file, Garber and all the other
-files to build your own flight controller.for Flashing latest Betaflight to 
+files to build your own flight controller. for Flashing the latest Betaflight to 
 Flight controller visit rtlopez/esp-fc repo- 
 https://github.com/rtlopez/esp-fc.
 
 Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get help
+
+
+
+# Quick Start
+
+## Requirements
+
+Hardware:
+* Seeed Studio Xiao ESP32 S3(https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
+* 1104 4300kv mottor x4 (https://www.aliexpress.com/item/1005006896335191.html)
+* 2-3S micro 8A ESC x4 (https://www.aliexpress.com/item/1005011716892589.html)
+> [!IMPORTANT]
+> **If you also want build your own 4in1 esc**, Visit this repo- **https://github.com/minhazislamnafi/Nano-2-3s-AM32-ESC**.
+* Hglrc m100 mini GPS (https://www.aliexpress.com/item/1005006328604319.html)
+* HGLRC Zeus Nano VTX 350mW (https://www.aliexpress.com/item/1005008803605825.html)
+
+Components:
+
+* 
+* 
+* 
+
+
+
+
+
+
+
+
 
 
 
@@ -75,16 +104,6 @@ Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get help
 PETG or ABS - Top plate, Bottom plate.(better to use PETG-CF)
 
 TPU - Camera mount, GPS mount, VTX antena mount.
-
-
-
-
-
-
-
-
-
-
 
 
 
