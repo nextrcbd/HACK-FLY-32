@@ -52,8 +52,7 @@ Use Case: Long-range FPV, exploration, and experimental flight testing.
 
 A custom hardware and PCB that gives you your own way to add spice to it.
 Also compatible with BetaFlight (you can achieve very agile and stable flight characteristics). Supports all types of Radio RX protocols: PPM, SBUS, IBUS, and CRSF Receivers.
-If you combine it with a high-performance 18650 Li-ion battery (like Molicel PB28A,
-Ampace jp30 or Sony vt6), you can get over 10 minutes of flight time.
+If you combine it with a high-performance 18650 Li-ion battery (like Molicel PB28A,Eve 30pl,Ampace jp30 or Sony vt6), you can get over 10 minutes of flight time.
 
 Who didn't want his drone to be repairable? The 3D-printed frame gives you that flexibility.
 Break the frame in a crash? Just print another. Cost? less than 1$ even if you PETG-CF.
