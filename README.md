@@ -80,7 +80,7 @@ Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get help
 
 * Mpu6050M QFN-24 (https://s.click.aliexpress.com/e/_c2JBpdQt)
 * 0402 10uH inductor (https://s.click.aliexpress.com/e/_c3vbFmHj)
-* Some 0603 size Resistors and capacitors [Checkout Bill of material](/Flight%20Controller/PCB/BOM_HACK_FLY_V1.2_2026-04-11.csv)
+* Some 0603 size Resistors and capacitors [**Checkout Bill of material**](/Flight%20Controller/PCB/BOM_HACK_FLY_V1.2_2026-04-11.csv)
 
 
 
