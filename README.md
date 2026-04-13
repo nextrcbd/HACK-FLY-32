@@ -23,13 +23,13 @@ USE AT YOUR OWN RISK.
 
 Frame Size: 3-inch.
 
-Motors: 1104 – 4300KV
+Motors: 1104 – 4300KV.
 
-Propeller: Gemfan 3018 bi-blade
+Propeller: Gemfan 3018 bi-blade.
 
 Battery Support: 2S – 3S LiPo.
 
-suggested battery: (900-1500)mah 3s lipo
+suggested battery: (900-1500)mah 3s lipo.
 
 Flight Controller: Custom-designed FC.
 
