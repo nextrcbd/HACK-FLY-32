@@ -63,11 +63,15 @@ Break the frame in a crash? Just print another. Cost? less than 1$ even if you P
 
 
 
+
+
 3D print material:
 
 PETG or ABS - Top plate, Bottom plate.(better to use PETG-CF)
 
 TPU - Camera mount, GPS mount, VTX antena mount.
+
+
 
 
 
