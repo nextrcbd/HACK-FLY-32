@@ -46,8 +46,6 @@ Use Case: Long-range FPV, exploration, and experimental flight testing.
 
 
 
-
-
 # Why HACK FLY?
 
 A custom hardware and PCB that gives you your own way to add spice to it.
@@ -85,9 +83,8 @@ Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get help
 
 **Components:**
 
-* 
-* 
-* 
+* Mpu6050M QFN-24 (https://s.click.aliexpress.com/e/_c2JBpdQt)
+* 0402 10uH inductor (https://s.click.aliexpress.com/e/_c3vbFmHj)
 
 
 
