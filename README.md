@@ -4,7 +4,7 @@
 
 A compact 3-inch 3D printed FPV drone designed for efficiency, stability, and extended flight time. This project features a custom-built flight controller, ExpressLRS (ELRS) communication, and GPS support, all running on Betaflight firmware.
 
-
+<img width="966" height="607" alt="Screenshot 2026-04-12 010023" src="https://github.com/user-attachments/assets/e12f5622-5974-41c9-940f-02108fd690a3" />
 
 
 
@@ -49,15 +49,15 @@ Use Case: Long-range FPV, exploration, and experimental flight testing.
 
 
 
+# Why HACK FLY?
 
+A custom hardware and PCB that gives you your own way to add spice to it.
+Also compatible with BetaFlight (you can achieve very agile and stable flight characteristics). Supports all types of Radio RX protocols: PPM, SBUS, IBUS, and CRSF Receivers.
+If you combine it with a high-performance 18650 Li-ion battery (like Molicel PB28A,
+Ampace jp30 or Sony vt6), you can get over 10 minutes of flight time.
 
-Key Features
-
-Lightweight and efficient long-range design.
-Custom flight controller hardware.
-Low-latency and long-range control using ELRS.
-GPS support for navigation and failsafe features.
-Fully configurable through Betaflight.
+Who didn't want his drone to be repairable? The 3D-printed frame gives you that flexibility.
+Break the frame in a crash? Just print another. Cost? less than 1$ even if you PETG-CF.
 
 
 
@@ -80,9 +80,8 @@ for Flashing latest Betaflight to Flight controller visit rtlopez/esp-fc repo- h
 
 
 
-As the Flight controller pcb is 4layer chose a well known manufacturer for better quality pcbs.
+As the Flight controller PCB is 4-layer, choose a well-known manufacturer for better-quality PCBs.
 
 <img width="1399" height="1049" alt="Screenshot 2026-04-08 113334" src="https://github.com/user-attachments/assets/48689299-0c3d-41d5-8b5b-da8d9c802c4d" />
-<img width="966" height="607" alt="Screenshot 2026-04-12 010023" src="https://github.com/user-attachments/assets/e12f5622-5974-41c9-940f-02108fd690a3" />
 
 
