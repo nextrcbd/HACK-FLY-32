@@ -75,13 +75,13 @@ Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get help
 
 **Hardware:**
 * Seeed Studio Xiao ESP32 S3(https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
-* 1104 4300kv mottor x4 (https://www.aliexpress.com/item/1005006896335191.html)
-* 2-3S micro 8A ESC x4 (https://www.aliexpress.com/item/1005011716892589.html)
+* 1104 4300kv mottor x4 (https://s.click.aliexpress.com/e/_c4sG0n0N)
+* 2-3S micro 8A ESC x4 (https://s.click.aliexpress.com/e/_c4ShBcjr)
 > [!IMPORTANT]
 > **If you also want build your own 4in1 esc**, Visit this repo- **https://github.com/minhazislamnafi/Nano-2-3s-AM32-ESC**.
-* Gemfan 3018 bi-blade × 2 pair(https://s.click.aliexpress.com/e/_c34qvZlJ)
-* Hglrc m100 mini GPS (https://www.aliexpress.com/item/1005006328604319.html)
-* HGLRC Zeus Nano VTX 350mW (https://www.aliexpress.com/item/1005008803605825.html)
+* Gemfan 3018 bi-blade × 2 pair (https://s.click.aliexpress.com/e/_c34qvZlJ)
+* Hglrc m100 mini GPS (https://s.click.aliexpress.com/e/_c4F9Fw8h)
+* HGLRC Zeus Nano VTX 350mW (https://s.click.aliexpress.com/e/_c3wNfnSD)
 
 **Components:**
 
