@@ -106,6 +106,7 @@ TPU - Camera mount, GPS mount, VTX antena mount.
 
 As the Flight controller PCB is 4-layer, choose a well-known manufacturer for better-quality PCBs.
 
-<img width="1399" height="1049" alt="Screenshot 2026-04-08 113334" src="https://github.com/user-attachments/assets/48689299-0c3d-41d5-8b5b-da8d9c802c4d" />
+<img width="1756" height="806" alt="fc 2 bg" src="https://github.com/user-attachments/assets/30e14e2d-76eb-4e8d-abbf-936910137495" />
+
 
 
