@@ -78,7 +78,10 @@ Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get help
 
 * Mpu6050M QFN-24 (https://s.click.aliexpress.com/e/_c2JBpdQt)
 * 0402 10uH inductor (https://s.click.aliexpress.com/e/_c3vbFmHj)
-* Some 0603 size Resistors and capacitors( Check BOM https://github.com/nextrcbd/HACK-FLY-32/blob/main/Flight%20Controller/PCB/BOM_HACK_FLY_V1.2_2026-04-11.csv)
+* Some 0603 size Resistors and capacitors [**Checkout Bill of material**](/Flight%20Controller/PCB/BOM_HACK_FLY_V1.2_2026-04-11.csv)
+(https://a.aliexpress.com/_c3XHJm1T)
+* 0805 size red & green led ×2
+(https://s.click.aliexpress.com/e/_c3fRfz0V)
 
 
 
@@ -101,6 +104,8 @@ TPU - Camera mount, GPS mount, VTX antena mount.
 
 As the Flight controller PCB is 4-layer, choose a well-known manufacturer for better-quality PCBs.
 
-<img width="1399" height="1049" alt="Screenshot 2026-04-08 113334" src="https://github.com/user-attachments/assets/48689299-0c3d-41d5-8b5b-da8d9c802c4d" />
+<img width="1756" height="806" alt="fc 2 bg2" src="https://github.com/user-attachments/assets/cd0f46fc-6132-4cc7-8963-48be5573cfbb" />
+
+
 
 
