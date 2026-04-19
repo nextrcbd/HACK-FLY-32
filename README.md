@@ -76,8 +76,6 @@ Join our **[Discord Channel](https://discord.gg/Ff5Q2nz4)** to get help
 * Hglrc m100 mini GPS (https://s.click.aliexpress.com/e/_c4F9Fw8h)
 * HGLRC Zeus Nano VTX 350mW (https://s.click.aliexpress.com/e/_c3wNfnSD)
 
-**Components:**
-
 * Mpu6050M QFN-24 (https://s.click.aliexpress.com/e/_c2JBpdQt)
 * 0402 10uH inductor (https://s.click.aliexpress.com/e/_c3vbFmHj)
 * Some 0603 size Resistors and capacitors( Check BOM https://github.com/nextrcbd/HACK-FLY-32/blob/main/Flight%20Controller/PCB/BOM_HACK_FLY_V1.2_2026-04-11.csv)
